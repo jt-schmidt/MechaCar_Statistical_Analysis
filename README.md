@@ -58,6 +58,14 @@ Variance
 
 ## Deliverable 3:  T-Test on Suspension Coils
 
+* Overall:  p-value = 0.06028 > 0.05
+* Lot1: p-value = 1.0 > 0.05
+* Lot2: p-value = 0.6072 > 0.05
+* Lot3: p-value = 0.04168 < 0.05
+
+>P values are the probability of observing a sample statistic that is at least as extreme as sample statistic when null hypothesis is true.
+> [Interpreting P-value](https://statisticsbyjim.com/hypothesis-testing/interpreting-p-values/)
+
 *Suspension Coil T-Test Results*
 ![SuspensionCoil_t-test](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/SuspensionCoil_t-test.PNG)
 
