@@ -27,7 +27,7 @@ Why?  t-values are nearest to zero
 
 
 >The coefficient t-value is a measure of how many standard deviations our coefficient estimate is far away from 0. We want it to be far away from zero as this would indicate we could reject the null hypothesis - that is, we could declare a relationship between speed and distance exist. In our example, the t-statistic values are relatively far away from zero and are large relative to the standard error, which could indicate a relationship exists. In general, t-values are also used to compute p-values.
-> - [Coefficient - t value](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R#:~:text=The%20Pr(%3Et)%20acronym,dist)%20variables%20due%20to%20chance.)
+> - [Coefficient - t value](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R#)
 
 2.  Is the slope of the linear model considered to be zero? Why or why not?
 
