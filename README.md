@@ -16,6 +16,7 @@ Reviews performed include:
 
 ## Deliverable 1:  Linear Regression to Predict MPG
 
+*Mecha Car MPG Linear Regression Summary*
 ![MechaCarMPG_LinearRegressionSummary](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/MechaCarMPG_LinearRegressionSummary.PNG)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -38,5 +39,8 @@ Answer:
 ![SuspensionCoil_LotSummary](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/SuspensionCoil_LotSummary.PNG)
 
 ## Deliverable 3:  T-Test on Suspension Coils
+
+*Suspension Coil T-Test Results*
+![SuspensionCoil_t-test](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/SuspensionCoil_t-test.PNG)
 
 ## Deliverable 4:  Study Comparing MechaCar to Competition
