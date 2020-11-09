@@ -3,7 +3,7 @@ Module 15 -- Statistics with R
 
 ## Overall Summary
 
-Statiscal review of [MechaCar_mpg.csv](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv) and [Suspension_Coil.csv" datasets](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv) using R.
+Statiscal review of [MechaCar_mpg.csv](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv) and [Suspension_Coil.csv](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv) datasets using R.
 
 R source can be found in:
 * [MechCarChallenge R Notebook](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.Rmd)
