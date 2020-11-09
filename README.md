@@ -99,6 +99,7 @@ Alternative Hypothesis:
 Power source (electric vs gasoline) does have a significant effect on total vehicle range assuming similar driving conditions.  
 
 * What statistical test would you use to test the hypothesis? And why?
+
 Two-Sample t-test for a strict comparison of Electric vs Gasoline powered vehicle datasets to determine significant difference exists or not.
 
 * What data is needed to run the statistical test?
