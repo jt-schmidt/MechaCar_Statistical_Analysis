@@ -16,8 +16,7 @@ Reviews performed include:
 
 ## Deliverable 1:  Linear Regression to Predict MPG
 
-*Mecha Car MPG Linear Regression Summary*
-
+*Mecha Car MPG Linear Regression Summary*  
 ![MechaCarMPG_LinearRegressionSummary](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/MechaCarMPG_LinearRegressionSummary.PNG)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
