@@ -31,6 +31,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 Answer:
 
+*Suspension Coil Total Summary*
+![SuspensionCoil_TotalSummary](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/SuspensionCoil_TotalSummary.PNG)
+
+*Suspension Coil Lot Summary*
+![SuspensionCoil_LotSummary](https://github.com/jt-schmidt/MechaCar_Statistical_Analysis/blob/main/SuspensionCoil_LotSummary.PNG)
+
 ## Deliverable 3:  T-Test on Suspension Coils
 
 ## Deliverable 4:  Study Comparing MechaCar to Competition
